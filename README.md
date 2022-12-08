@@ -28,7 +28,7 @@ CommonsCollectionsK3
 
 ## 二
 
-CommonsCollections4.0
+CommonsCollections 4.0
 
 ```
 CommonsCollections2
