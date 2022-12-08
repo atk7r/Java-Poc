@@ -47,7 +47,7 @@ CommonsCollections <= 3.2.1
 ```
 CommonsBeanutils1
 CommonsCollectionsK1（allowTemplates）
-CommonsCollectionsK3（allowTemplates）
+CommonsCollectionsK3
 ```
 
 无CommonsCollections <= 3.2.1
