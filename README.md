@@ -1,5 +1,5 @@
 # Java-Poc
-Java反序列化Poc合集
+Java反序列化Poc合集(代码非原创，仅供学习)
 
 ![image](./img/poc.jpg)
 
